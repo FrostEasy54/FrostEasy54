@@ -7,9 +7,10 @@
 - Email: [dubrovin.vs.a@gmail.com](mailto:dubrovin.vs.a@gmail.com)
 - Telegram: [@sevtaro_dubstar](https://t.me/sevtaro_dubstar)
 
-## 📚 Learning
+## 📚 Have worked with:
 - Flask
 - Docker
 - FastAPI
 - SQLAlchemy
-- Kubernetes
+- Django
+- Tutor (OpenEDX)
