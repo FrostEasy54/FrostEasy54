@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seva</h1>
-<h3 align="center">A python developer from Russia</h3>
+<h3 align="center">Data Engineer from Russia</h3>
 
 ## 💬 About me
 - Graduate student of [Moscow State University of civil engineering](https://mgsu.ru/)
@@ -9,9 +9,17 @@
 - Telegram: [@sevtaro_dubstar](https://t.me/sevtaro_dubstar)
 
 ## 📚 Have worked with:
-- Flask
+- Apache Airflow
+- Apache NiFi
+- Hashicorp Vault
+- PostgreSQL, MySQL, Oracle
+- Clickhouse, Greenplum
+- Yandex Cloud
+- Kubernetes
+- Hadoop
+- Pandas, Polars
+- Plotly, Seabron, Matplotlib, Streamlit
+- Flask, Django, FastAPI
 - Docker
-- FastAPI
 - SQLAlchemy
-- Django
 - Tutor (OpenEDX)
